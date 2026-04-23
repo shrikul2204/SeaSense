@@ -1,0 +1,11 @@
+flask
+flask-login
+flask-sqlalchemy
+numpy
+pandas
+scikit-learn
+xgboost
+joblib
+python-dotenv
+gunicorn
+openai
