@@ -1,4 +1,4 @@
-# 🌊 SeaSense
+# 🌊 ANCHOR
 
 **AI-Powered Marine Pollution Monitoring & Risk Analysis System**
 
@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-SeaSense is an intelligent environmental monitoring system designed to analyze marine pollution levels and assess associated risks. It integrates data processing, predictive analysis, and visualization to provide meaningful insights for decision-making.
+Anchor is an intelligent environmental monitoring system designed to analyze marine pollution levels and assess associated risks. It integrates data processing, predictive analysis, and visualization to provide meaningful insights for decision-making.
 
 The system evaluates pollution indices, confidence levels, and risk categories, helping users understand environmental conditions effectively.
 
@@ -27,7 +27,7 @@ The system evaluates pollution indices, confidence levels, and risk categories, 
 ## 🏗️ Project Structure
 
 ```
-SeaSense/
+Anchor/
 │
 ├── backend/              # Backend (API, ML models, processing)
 ├── frontend-react/       # Frontend (React UI)
